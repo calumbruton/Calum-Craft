@@ -10,10 +10,13 @@ To play, download the files and run the main script. The user must have pyglet a
 
 So, go to the directory the files were downloaded to and run:
 
+```
 pip3 install pyglet
 pip3 install noise
+```
 
 Then run the script using
 
+```
 python3 main.py
-
+```
